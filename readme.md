@@ -1,6 +1,8 @@
 Health Check
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nymag/health-check.svg)](https://greenkeeper.io/)
+
 Health-check middleware for Express.
 
 Returns either HTTP 200 or 500.
